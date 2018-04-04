@@ -1,1 +1,119 @@
 @import "bootstrap";
+
+.navbar-style {
+  background-color: #0f7675 !important;
+  height: 50px;
+  border-radius: 0px !important;
+}
+
+.top-style {
+  background-color: #0f7675 !important;
+  height: 230px;
+  border-radius: 0px !important;
+}
+
+.fontawesome {
+  text-align: center;
+  display: inline-block;
+}
+
+.verticalLine {
+  border-left: 2px solid #ff0000;
+  height: 100px;
+  // margin-left: 150px;
+}
+
+.icon {
+  color: #0f7675;
+}
+
+.icon-top {
+  width: 30px;
+  height: 30px;
+  color: black;
+  z-index: 1;
+}
+
+.integer {
+  font-size: 37px;
+  margin-top: 40px;
+  color: #0f7675;
+}
+
+.face-icon{
+  color: #3d5a96;
+  padding-left: 890px;
+}
+
+.twitter-icon{
+  color: #78aae8;
+  padding-left: 10px;
+}
+
+.instagram-icon{
+  color: #f2481d;
+  padding-left: 10px;
+}
+
+.header-text{
+  color: #0f7675;
+  font-size: 15px;
+}
+
+.text-footer {
+  color: black;
+  font-size: 12px;
+  margin-bottom: 7px;
+}
+
+.link-text {
+  color: #0f7675 !important;
+  font-size: 13px;
+}
+
+.horizontal-line-footer {
+  height: 194px;
+  color: #F1F1F1;
+}
+
+.footer {
+  height: 92px;
+  width: 100%;
+  background-color: #F1F1F1;
+  margin-bottom: 21px;
+  position: static;
+  padding-top: 27px;
+}
+
+section #middle {
+  height: 780px;
+}
+
+#text-near-footer {
+  padding-top: 45px;
+}
+
+#text{
+  padding-left: 110px;
+}
+
+#radar{
+  padding-left: 105px;
+}
+
+#white-text{
+  color: white;
+}
+
+#navbar-text{
+  margin-top: 5px;
+}
+
+#white-text-top{
+  color: white;
+  width: auto;
+}
+
+#link-footer{
+  padding-left: 105px;
+}
