@@ -43,17 +43,15 @@
 
 .face-icon{
   color: #3d5a96;
-  padding-left: 100px;
+  padding-bottom: 30px !important;
 }
 
 .twitter-icon{
   color: #78aae8;
-  padding-left: 10px;
 }
 
 .instagram-icon{
   color: #f2481d;
-  padding-left: 10px;
 }
 
 .header-text{
@@ -81,9 +79,6 @@
   height: 92px;
   width: 100%;
   background-color: #F1F1F1;
-  margin-bottom: 21px;
-  position: static;
-  padding-top: 27px;
 }
 
 section #middle {
@@ -124,18 +119,18 @@ section #middle {
 #link-footer{
   // padding-left: 105px;
   padding-right: 0px;
-  font-size: 7px;
+  font-size: 14px;
   color: black;
 }
 #link-footer-2{
   padding-left: 0px;
-  font-size: 7px;
+  font-size: 14px;
   color: black;
 }
 
 .rectangle-word-frame{
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 180px;
   text-align: center;
   background-color: #FEFEFE;
 }
@@ -153,7 +148,7 @@ section #middle {
 }
 
 #carousel-indicators{
-  background-color: #a5a4a4 !important;
+  border-color: #0f7675 !important;
 }
 
 .icon-next{
@@ -220,7 +215,11 @@ section #middle {
 
 #text-lorem{
   padding-top: 46px;
-  line-height: 25px;
+  line-height: 30px;
+}
+
+#text-lorem1{
+  line-height: 30px;
 }
 
 #font-awesome{
@@ -233,5 +232,49 @@ section #middle {
 }
 
 .title-text {
-  padding-bottom: 112px;
+  padding-bottom: 80px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.text-white{
+  color: black;
+}
+
+.near-footer {
+  background-color: #F9F9F9;
+  height: 170px;
+}
+
+#fontawesome-icon {
+  padding-top: 23px !important;
+}
+.copyright-text{
+  padding-top: 31px;
+}
+
+#line-nearby-footer{
+  height: 75px;
+}
+
+#logo-navbar{
+  color:  white;
+}
+
+.middle-line{
+  height: 50px;
+}
+
+#span-text{
+  height: 130px;
+  background-color: #F9F9F9
 }
