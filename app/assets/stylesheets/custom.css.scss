@@ -79,6 +79,8 @@
   height: 92px;
   width: 100%;
   background-color: #F1F1F1;
+  margin-bottom: 20px !important;
+  position: relative;
 }
 
 section #middle {
@@ -263,7 +265,9 @@ img:hover {
 }
 
 #line-nearby-footer{
-  height: 75px;
+  height: 1px;
+  padding-bottom: 1px;
+  padding-top: 1px;
 }
 
 #logo-navbar{
@@ -274,7 +278,22 @@ img:hover {
   height: 50px;
 }
 
-#span-text{
-  height: 130px;
-  background-color: #F9F9F9
+#footer-text-link{
+  height: 195px;
+  background-color: #F9F9F9;
+  padding-top: 75px;
 }
+
+#row-3-4{
+  padding-top: 90px;
+}
+
+#text-footer{
+  height: 195px;
+}
+
+.footer-list{
+  position: relative; 
+  bottom: 20px;
+}
+
